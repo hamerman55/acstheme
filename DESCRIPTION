@@ -1,0 +1,10 @@
+Package: acstheme
+Title: Publication-ready theme and color palette for ACS journals
+Version: 0.1.0
+Authors@R: person("Your", "Name", email = "your@email.com", role = c("aut", "cre"))
+Description: Custom ggplot2 theme, colorblind-safe palette, and export function tailored for American Chemical Society journal figures.
+Depends: R (>= 3.5.0)
+Imports: ggplot2
+License: MIT
+Encoding: UTF-8
+LazyData: true
